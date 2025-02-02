@@ -7,10 +7,10 @@ This project is a comprehensive web application designed to streamline administr
 
 ## Team Members
 
-- **Ashwath Soni** - *Team Lead, Backend, and Database*
+-**Sarah Jain** - *Front end: Designed Home Page and some other sub pages (login/register page, messages, fees, result and some other)* 
 - **Sahil Chabra** - *IoT: Handled the RFID-based attendance system and front end for admin dashboard*
-- **Yuvika Khanna** - *Front end: Developed sub-pages for the website (login/register page, messages, fees, result, about us, and contact us)*
-- **Sarah Jain** - *Front end: Designed Home Page and some other sub pages*
+- **Yuvika Khanna** - *Front end: Developed sub-pages for the website *
+- **Ashwath Soni** - *Team Lead, Backend, and Database*
 
 ## Technologies Used
 
